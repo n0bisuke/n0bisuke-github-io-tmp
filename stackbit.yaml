@@ -2,7 +2,7 @@ stackbitVersion: ~0.3.0
 ssgName: nextjs
 cmsName: git
 buildCommand: npm run build
-publishDir: out
+publishDir: docs
 assets:
   referenceType: static
   staticDir: public
