@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I''m n0bisuke. :(!'
     content: |
-      こんにちははじめまして。
+      こんにちははじめまして。よろしくお願いします。
   - section_id: about
     type: section_content
     title: About
