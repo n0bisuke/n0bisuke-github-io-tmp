@@ -28,7 +28,7 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: n0bisuke's blog
+  title: n0bisuke's memo
   extra:
     - name: 'og:type'
       value: website
