@@ -4,7 +4,7 @@
     "layout_style": "overflow",
     "palette": "blue",
     "header": {
-        "title": "@n0bisuke",
+        "title": "n0bisuke's memo",
         "tagline": "from Akihabara",
         "profile_img": "/images/b3d6de77-6c25-4b2a-84bb-10d593ef119b.jpg",
         "profile_img_alt": "Author avatar",
@@ -61,15 +61,15 @@
                 "new_window": true
             },
             {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "label": "Youtube",
+                "url": "https://www.youtube.com/channel/UC42TOX3Ff7H0iORoPoBkAcg",
                 "style": "icon",
-                "icon_class": "linkedin",
+                "icon_class": "youtube",
                 "new_window": true
             },
             {
                 "label": "DEV",
-                "url": "https://dev.to/",
+                "url": "https://qiita.com/n0bisuke",
                 "style": "icon",
                 "icon_class": "dev",
                 "new_window": true
