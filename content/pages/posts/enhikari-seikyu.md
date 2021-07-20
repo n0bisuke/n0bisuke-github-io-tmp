@@ -3,8 +3,8 @@ title: 解約したプロバイダーから請求が来た話
 excerpt: 解約したはずのインターネットサービスプロバイダーから請求が来てました。
 date: '2021-07-20'
 thumb_img_path: /images/スクリーンショット 2021-07-20 10.44.14.png
-thumb_img_alt: Icelandic horses
-content_img_path: images/7.jpg
+thumb_img_alt: 7月分のご利用料金のお知らせ
+content_img_path: /images/beige-eggplant.png
 content_img_alt: プロバイダーメール
 seo:
   title: Fragments of Iceland
