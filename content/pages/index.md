@@ -52,6 +52,6 @@ seo:
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
-  description: メモ
+  description: メモを野コス
 layout: advanced
 ---
