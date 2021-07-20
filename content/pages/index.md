@@ -52,5 +52,6 @@ seo:
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
+  description: メモ
 layout: advanced
 ---
