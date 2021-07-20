@@ -28,8 +28,7 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Stackbit Fresh Theme
-  description: The preview of the Fresh theme
+  title: n0bisuke's memo
   extra:
     - name: 'og:type'
       value: website
@@ -53,5 +52,6 @@ seo:
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
+  description: メモを残す場にしてみようと思います。
 layout: advanced
 ---

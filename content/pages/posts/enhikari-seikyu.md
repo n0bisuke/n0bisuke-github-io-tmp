@@ -68,7 +68,7 @@ enひかりというプロバイダーです。
 
 ほう。。。 なので正常な挙動らしく、7月で最後とのことでした。
 
-\<blockquote class="twitter-tweet">\<p lang="ja" dir="ltr">5月に解約したプロバイダーから七月利用分と請求が来てたんだけど、問い合わせしたら2ヶ月遅れで請求になってるらしく異常なしっぽい。　理解はできたけど分かりにくいな…\</p>\&mdash; 菅原のびすけ (@n0bisuke) \<a href="https://twitter.com/n0bisuke/status/1416977719850536964?ref_src=twsrc%5Etfw">July 19, 2021\</a>\</blockquote> \<script async src="https://platform.twitter.com/widgets.js" charset="utf-8">\</script>
+https://twitter.com/n0bisuke/status/1416977719850536964
 
 どちらにしてもわかりにくい...
 
@@ -78,16 +78,10 @@ enひかりというプロバイダーです。
 
 解約した人にもちゃんと対応してくれる。
 
-
-
 ## 結果
-
-
 
 8月に請求が来なければOKらしいので、分かった追記予定。
 
 そんなことあるんですね。。
-
-
 
 @ビリングってサービス経由で支払い通知が来るのですが、これがめちゃ分かりにくく、ログインしにくくイケてないサービスで。enひかり側よりも大体このサービスのせいなのではと思ってたりします。
