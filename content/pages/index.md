@@ -4,9 +4,9 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m n0bisuke. :(!'
+    title: 'Hi, I''m n0bisuke. :)!'
     content: |
-      こんにちははじめまして。よろしくお願いします。
+      まだ作りかけです
   - section_id: about
     type: section_content
     title: About

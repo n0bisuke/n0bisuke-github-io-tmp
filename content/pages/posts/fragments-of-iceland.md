@@ -1,14 +1,11 @@
 ---
-title: Fragments of Iceland
-excerpt: >-
-  Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
-  It has a population of 325,671 and an area of 103,000 km2 (40,000 sq mi),
-  making it the most sparsely populated country in Europe.
-date: '2019-03-27'
-thumb_img_path: images/7.jpg
+title: 解約したプロバイダーから請求が来た話
+excerpt: 解約したはずのインターネットサービスプロバイダーから請求が来てました。
+date: '2021-07-20'
+thumb_img_path: /images/スクリーンショット 2021-07-20 10.44.14.png
 thumb_img_alt: Icelandic horses
 content_img_path: images/7.jpg
-content_img_alt: Icelandic horses
+content_img_alt: プロバイダーメール
 seo:
   title: Fragments of Iceland
   description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
@@ -40,14 +37,57 @@ seo:
       value: images/7.jpg
       relativeUrl: true
 layout: post
+subtitle: 解約したはずのインターネットサービスプロバイダーから請求が来てました。
 ---
+解約したはずのインターネットサービスプロバイダーから請求が来てました。
 
-Photo by [Anders Jildén](https://unsplash.com/photos/uO4Au3LrCtk)
+結果から言うと、現状トラブルっぽい話ではなかった模様です。
 
-**Iceland** Enim nec dui nunc mattis enim ut tellus elementum sagittis. *Felis bibendum ut tristique et egestas quis ipsum suspendisse*. Est pellentesque elit ullamcorper dignissim cras tincidunt lobortis. Orci ac auctor augue mauris. Ut pharetra sit amet aliquam id diam. Lectus arcu bibendum at varius vel pharetra. Id nibh tortor id aliquet lectus proin nibh. Duis ut diam quam nulla porttitor massa id neque aliquam. Feugiat nibh sed pulvinar proin gravida. Dolor purus non enim praesent elementum. Pharetra convallis posuere morbi leo urna molestie. Vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor posuere.
+> 日ごろ、ＮＴＴ東日本をご利用いただきましてありがとうございます。
+> 令和　３年　７月分の電話料金等のご請求額が確定しましたのでお知らせします。
+> ご請求金額につきましては、ご利用のクレジット会社の規約に基づく振替日より振替させていただきます。
+> なお、詳細な請求内訳等は、「＠ビリング」のホームページからご確認ください。
+> ◎「＠ビリング」のホームページ　<https://www.billing.ntt-east.co.jp/entrance/>
+> ※本メールへの返信はお受けできません。
+>
+> ●お客さま番号：(\*\*)\*\*\*\*-xxxxxx
+> ●ご請求月分：令和　３年　７月分
+> ●ご請求金額：4,928円
 
-> Iceland, I'm in love with that country, the people are incredible. - Kit Harington
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Consectetur adipiscing elit ut aliquam purus sit. Massa placerat duis ultricies lacus sed. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Pulvinar neque laoreet suspendisse interdum consectetur libero. Lacus viverra vitae congue eu consequat ac felis donec et. Imperdiet dui accumsan sit amet nulla facilisi. Faucibus turpis in eu mi bibendum neque. Magna etiam tempor orci eu. Cursus turpis massa tincidunt dui ut ornare. A condimentum vitae sapien pellentesque habitant. Ut porttitor leo a diam sollicitudin tempor id eu.
 
-Pulvinar pellentesque habitant morbi tristique senectus et netus et. Suspendisse faucibus interdum posuere lorem ipsum dolor sit amet. Erat nam at lectus urna duis. Lacinia quis vel eros donec ac odio. Eget nulla facilisi etiam dignissim diam quis. Arcu dictum varius duis at consectetur lorem donec massa. Egestas tellus rutrum tellus pellentesque eu. Egestas erat imperdiet sed euismod nisi porta. Nec feugiat in fermentum posuere urna. Viverra ipsum nunc aliquet bibendum enim. Fermentum odio eu feugiat pretium. Vestibulum rhoncus est pellentesque elit. Elit ut aliquam purus sit amet luctus venenatis. Donec ac odio tempor orci dapibus ultrices in. Vitae justo eget magna fermentum. At tellus at urna condimentum mattis pellentesque id nibh tortor. Arcu dictum varius duis at consectetur lorem donec massa. Malesuada proin libero nunc consequat interdum varius sit amet. Dui accumsan sit amet nulla facilisi. Ut venenatis tellus in metus vulputate.
+## 5月に解約した7月利用分の請求が来た
+
+
+
+ということで、電話で問い合わせしてみました。
+
+enひかりというプロバイダーです。
+
+[こちら](https://enhikari.jp/lifesupport.html)に電話番号があって問い合わせできます。
+
+
+
+電話問い合わせをして聞いていたところ、ちゃんと解約処理はされてる模様で、
+
+**２ヶ月遅れて請求が来るが表示がミスってるらしい**
+
+ほう。。。 なので正常な挙動らしく、7月で最後とのことでした。
+
+
+
+\<blockquote class="twitter-tweet">\<p lang="ja" dir="ltr">5月に解約したプロバイダーから七月利用分と請求が来てたんだけど、問い合わせしたら2ヶ月遅れで請求になってるらしく異常なしっぽい。　理解はできたけど分かりにくいな…\</p>\&mdash; 菅原のびすけ (@n0bisuke) \<a href="https://twitter.com/n0bisuke/status/1416977719850536964?ref_src=twsrc%5Etfw">July 19, 2021\</a>\</blockquote> \<script async src="https://platform.twitter.com/widgets.js" charset="utf-8">\</script>
+
+
+
+どちらにしてもわかりにくい... 
+
+
+
+## enひかりの対応自体は良かった
+
+
+
+電話対応してくれた方はすごく丁寧に対応してくれたのでストレスは無かったです。
+
+解約した人にもちゃんと対応してくれる。
