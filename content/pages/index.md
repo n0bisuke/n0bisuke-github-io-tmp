@@ -29,7 +29,6 @@ sections:
         style: button
 seo:
   title: n0bisuke's blog
-  description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
       value: website
