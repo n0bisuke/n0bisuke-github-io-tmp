@@ -5,7 +5,7 @@
     "palette": "blue",
     "header": {
         "title": "@n0bisuke",
-        "tagline": "Header Tagline",
+        "tagline": "from Akihabara",
         "profile_img": "/images/b3d6de77-6c25-4b2a-84bb-10d593ef119b.jpg",
         "profile_img_alt": "Author avatar",
         "background": "dark",
@@ -48,14 +48,14 @@
             },
             {
                 "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "url": "https://www.instagram.com/n0bisuke",
                 "style": "icon",
                 "icon_class": "instagram",
                 "new_window": true
             },
             {
                 "label": "GitHub",
-                "url": "https://github.com/",
+                "url": "https://github.com/n0bisuke",
                 "style": "icon",
                 "icon_class": "github",
                 "new_window": true
@@ -79,5 +79,6 @@
     "footer": {
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
     },
-    "domain": "https://n0bisuke.github.io"
+    "domain": "https://n0bisuke.github.io",
+    "favicon": "/images/great-primrose.jpg"
 }
