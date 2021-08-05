@@ -1,11 +1,11 @@
 {
-    "title": "Stackbit Fresh Theme",
+    "title": "n0bisuke's memo",
     "path_prefix": "/",
     "layout_style": "overflow",
     "palette": "blue",
     "header": {
-        "title": "Stackbit Fresh",
-        "tagline": "Header Tagline",
+        "title": "n0bisuke's memo",
+        "tagline": "from Akihabara",
         "profile_img": "/images/b3d6de77-6c25-4b2a-84bb-10d593ef119b.jpg",
         "profile_img_alt": "Author avatar",
         "background": "dark",
@@ -41,35 +41,35 @@
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/n0bisuke",
                 "style": "icon",
                 "icon_class": "twitter",
                 "new_window": true
             },
             {
                 "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "url": "https://www.instagram.com/n0bisuke",
                 "style": "icon",
                 "icon_class": "instagram",
                 "new_window": true
             },
             {
                 "label": "GitHub",
-                "url": "https://github.com/",
+                "url": "https://github.com/n0bisuke",
                 "style": "icon",
                 "icon_class": "github",
                 "new_window": true
             },
             {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "label": "Youtube",
+                "url": "https://www.youtube.com/channel/UC42TOX3Ff7H0iORoPoBkAcg",
                 "style": "icon",
-                "icon_class": "linkedin",
+                "icon_class": "youtube",
                 "new_window": true
             },
             {
                 "label": "DEV",
-                "url": "https://dev.to/",
+                "url": "https://qiita.com/n0bisuke",
                 "style": "icon",
                 "icon_class": "dev",
                 "new_window": true
@@ -77,7 +77,8 @@
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "&copy; @n0bisuke. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
     },
-    "domain": "https://n0bisuke.github.io"
+    "domain": "https://n0bisuke.github.io",
+    "favicon": "/images/great-primrose.jpg"
 }

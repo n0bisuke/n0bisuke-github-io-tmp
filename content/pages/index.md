@@ -4,9 +4,9 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m n0bisuke. :(!'
+    title: 'Hi, I''m n0bisuke. :)!'
     content: |
-      こんにちははじめまして。よろしくお願いします。
+      まだ作りかけです
   - section_id: about
     type: section_content
     title: About
@@ -28,8 +28,7 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Stackbit Fresh Theme
-  description: The preview of the Fresh theme
+  title: n0bisuke's memo
   extra:
     - name: 'og:type'
       value: website
@@ -53,5 +52,6 @@ seo:
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
+  description: メモを残す場にしてみようと思います。
 layout: advanced
 ---
